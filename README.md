@@ -96,10 +96,3 @@ Deployed as Docker images on Render (Postgres, API, and an nginx container that 
 | Mobile | Capacitor (iOS, Android) |
 | Infrastructure | Docker, nginx, Render, Cloudflare, GitHub Actions |
 | Integrations | Riot Games API, Oracle's Elixir, GRID, Stripe, Discord webhooks |
-
----
-
-### Want something like this built for you?
-
-I take on freelance work: full-stack web apps, React frontends, .NET APIs and AI features.
-**[andrej.kukuruzovic@gmail.com](mailto:andrej.kukuruzovic@gmail.com)** · **[X @HumnamDev](https://x.com/HumnamDev)** · [More about me](https://github.com/AndrejDev10)
